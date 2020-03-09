@@ -22,7 +22,8 @@ Current planned feature additions and updates:
 - Logo changes
 - Favicon, page title changes
 - Add Google Maps Javascript API
-- Add Airbnb Lottie Bodymovin Javascript 
+- Add Airbnb Lottie Bodymovin Javascript
+- CI / CD Deployment , Docker etc.
 
 # Introduction
 
