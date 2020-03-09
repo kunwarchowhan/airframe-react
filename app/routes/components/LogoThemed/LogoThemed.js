@@ -5,6 +5,7 @@ import classNames from 'classnames';
 import { ThemeConsumer } from '../../../components/Theme';
 
 const logos = {
+    TODO: Change Logo Selectors
     'white': require('./../../../images/logos/logo-white.svg'),
     'primary': require('./../../../images/logos/logo-primary.svg'),
     'success': require('./../../../images/logos/logo-success.svg'),
