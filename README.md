@@ -12,6 +12,18 @@ High Quality **Dashboard / Admin / Analytics template** that works great on any 
 
 ![aiframe-2019-light-primary-ExchangeTrading2x-bfc026c1-0477-45c8-ba55-f6dd43141e4c](https://user-images.githubusercontent.com/2330394/63061353-20ea4600-bef5-11e9-84c8-000a6dceea4d.png)
 
+# Introduction - Fork
+A big thank you to **Tomasz Owczarczyk:** for this dashboard which is almost everything that I would ever to build high quality front end applications. My current thoughts on my personal roadmap for this are:
+- Break out features and functionality
+- Add Redux
+- Investigate Next JS and Offline functionality
+
+Current planned feature additions and updates:
+- Logo changes
+- Favicon, page title changes
+- Add Google Maps Javascript API
+- Add Airbnb Lottie Bodymovin Javascript 
+
 # Introduction
 
 **Airframe Dashboard** with a minimalist design and innovative Light UI will let you build an amazing and powerful application with great UI. Perfectly designed for large scale applications, with detailed step by step documentation.
