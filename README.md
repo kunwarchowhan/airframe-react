@@ -19,11 +19,11 @@ A big thank you to **Tomasz Owczarczyk** for this dashboard which is almost ever
 - Investigate Next JS, Service Worker and Offline functionality
 
 Current planned feature additions and updates:
-- Logo changes
+- Logo changes :large_orange_diamond:
 - Favicon, page title changes
-- Add Google Maps Javascript API
-- Add Airbnb Lottie Bodymovin Javascript
-- CI / CD Deployment , Docker etc.
+- Add Google Maps Javascript API :large_orange_diamond:
+- Add Airbnb Lottie Bodymovin Javascript :large_orange_diamond:
+- CI / CD Deployment , Docker etc. :ferris_wheel:
 
 # Introduction
 
