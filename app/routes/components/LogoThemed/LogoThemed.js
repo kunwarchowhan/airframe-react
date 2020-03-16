@@ -5,9 +5,10 @@ import classNames from 'classnames';
 import { ThemeConsumer } from '../../../components/Theme';
 
 const logos = {
-    TODO: Change Logo Selectors
+    // TODO: Change Logo Selectors
     'white': require('./../../../images/logos/logo-white.svg'),
-    'primary': require('./../../../images/logos/logo-primary.svg'),
+    // 'primary': require('./../../../images/logos/logo-primary.svg'),
+    'primary': require('./../../../images/logos/McKesson_logo.svg'),
     'success': require('./../../../images/logos/logo-success.svg'),
     'warning': require('./../../../images/logos/logo-warning.svg'),
     'danger': require('./../../../images/logos/logo-danger.svg'),
