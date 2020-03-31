@@ -1,5 +1,5 @@
 # base image
-# FROM node:12.2.0-alpine --  TODO: Investigate Git Errors
+# FROM node:12.2.0-alpine --  TODO: Investigate Git Errors with official image
 FROM timbru31/node-alpine-git
 
 # set working directory
